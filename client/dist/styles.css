@@ -1,0 +1,35 @@
+body {
+  text-align: center;
+}
+
+.pokemonProfile {
+  text-align: center;
+  position: relative;
+}
+.pokemonProfile img {
+  width: 200px;
+  height: 200px;
+}
+
+.pokemonProfile h4 {
+  margin-top: 0%;
+  margin-bottom: 0%;
+  padding: 0px;
+  font-size: 130%;
+  font-style: bold;
+}
+
+.pokemonProfile li {
+  width: 200px;
+  text-align: left;
+  margin: 0 auto;
+}
+
+.searchHist {
+  border: 1px solid green;
+}
+
+.searchHistItems {
+  display: inline;
+  float: left;
+}
